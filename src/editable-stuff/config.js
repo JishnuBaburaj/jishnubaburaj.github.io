@@ -28,7 +28,7 @@ const about = {
   imageLink: require("../editable-stuff/jishnu.png"),
   imageSize: 375,
   message:
-    "My name is Jishnu Baburaj. I’m a graduate of 2016 from Calicut University with a degree in Electronics. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Jishnu Baburaj. I’m a graduate of 2016 from Calicut University with a degree in Electronics. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
   resume:
     "https://docs.google.com/document/d/1lNIBL_LH4aEQZipQrtmoeRzkLEI33E5dFOD_xrQTWSE/edit",
 };
