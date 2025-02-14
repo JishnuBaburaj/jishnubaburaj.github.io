@@ -34,7 +34,7 @@ const about = {
 };
 
 const repos = {
-  show: true,
+  show: false,
   heading: "Recent Projects",
   gitHubUsername: "JishnuBaburaj",
   reposLength: 0,
